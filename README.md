@@ -41,9 +41,13 @@ ________________________________________________________
 **Output Video:**
 
 The video was recorded for the following inputs:
+
 Start Point: (100, 20)
+
 Start orientation: 30
+
 Goal Point: (420, 380)
+
 Goal orientation: 30
 
 ________________________________________________________
