@@ -35,7 +35,7 @@ The video was recorded for the following inputs:
 
 - Goal Point: (575, 100)
 
-Video Link: 
+Video Link: https://drive.google.com/file/d/1W8FrZXbmIDdbaTkXmuIJ2TEy48e_7T7x/view?usp=sharing
 
 ________________________________________________________
 **Libraries used:**
