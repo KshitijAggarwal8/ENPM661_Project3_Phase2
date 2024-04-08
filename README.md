@@ -16,12 +16,26 @@ ________________________________________________________
 ________________________________________________________
 **User Inputs:**
 - Obstacle Clearance
-- Robot Radius
-- Robot Step Size
-- Start point coordinates (space separated)
-- Start point orientation (in multiples of 30)
-- Goal point coordinates (space separated)
-- Goal point orientation (in multiples of 30)
+- Start point x coordinate (scaled down by 10)
+- Start point y coordinate (scaled down by 10)
+- Start point orientation 
+- Goal point x coordinate (scaled down by 10)
+- Goal point y coordinate (scaled down by 10)
+- RPM 1
+- RPM 2
+
+________________________________________________________
+**Output Video:**
+
+The video was recorded for the following inputs:
+
+- Start Point: (100, 100)
+
+- Start orientation: 0
+
+- Goal Point: (575, 100)
+
+Video Link: 
 
 ________________________________________________________
 **Libraries used:**
@@ -31,29 +45,9 @@ ________________________________________________________
 - time
 - cv2
 - matplotlib
-- os
+
 
 ________________________________________________________
-**Output:**
-- If the goal is reached: "Found the GOAL!"
-- Video generation progress (in %age)
-- Total execution time
-
-________________________________________________________
-**Output Video:**
-
-The video was recorded for the following inputs:
-
-- Start Point: (100, 20)
-
-- Start orientation: 30
-
-- Goal Point: (420, 380)
-
-- Goal orientation: 30
-
-________________________________________________________
-
 
 # Part 2 (Gazebo Simulation): #
 
@@ -67,9 +61,9 @@ ________________________________________________________
 
 ________________________________________________________
 **User Inputs:**
-- Clearance (in m)
-- RPM 1 
-- RPM 2
+- Clearance (in m) (suggested clearance between 1.5-2.0)
+- RPM 1 (suggested values - 1,2)
+- RPM 2 (suggested values - 1,2)
 - Start point x (in m)
 - Start point y (in m)
 - Start Orientation
@@ -98,7 +92,6 @@ Enter goal point x coordinate (in metres): 5.75
 Enter goal point y coordinate (in metres): 1
 
 Video Link: https://drive.google.com/file/d/1zPUFRwBRJZqdP_vu8PJEW0X8y5Kw2ZH0/view?usp=sharing
-
 
 
 ________________________________________________________
