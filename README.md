@@ -76,6 +76,7 @@ ________________________________________________________
 
 ________________________________________________________
 **Output Video:**
+
 The video has been recored for the following input values:
 
 Enter the clearance 0.2
