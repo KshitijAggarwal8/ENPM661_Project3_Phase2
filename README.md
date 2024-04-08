@@ -8,7 +8,8 @@ kshitij2
 
 # Part 1 (A* for non-holonomic): #
 ________________________________________________________
-The main executable is **a_star_kshitij.py**
+
+**The main executable is **a_star_kshitij.py****
 
 ________________________________________________________
 **User Inputs:**
