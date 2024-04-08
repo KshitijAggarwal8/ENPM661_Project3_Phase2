@@ -9,9 +9,7 @@ kshitij2
 # Part 1 (A* for non-holonomic): #
 ________________________________________________________
 
-**The main executable is **a_star_kshitij.py****
-
-Markup :  `code()`
+**The main executable is `a_star_kshitij.py`**
 
 ________________________________________________________
 **User Inputs:**
@@ -56,9 +54,9 @@ ________________________________________________________
 ________________________________________________________
 **How to run:**
 1. Navigate to the workspace project3_ws, and source the underlay.
-2. export the turtlebot model: export TURTLEBOT3_MODEL-waffle
-3. Launch the competition arena: ros2 launch turtlebot3_project3 competition_world.launch.py 
-4. Open another terminal, source the underlay, and run the A star node: ros2 run turtlebot3_project3 astar_node.py
+2. export the turtlebot model: `export TURTLEBOT3_MODEL-waffle`
+3. Launch the competition arena: `ros2 launch turtlebot3_project3 competition_world.launch.py` 
+4. Open another terminal, source the underlay, and run the A star node: `ros2 run turtlebot3_project3 astar_node.py`
 5. After initialising the inputs, the algorithm will calculate the optimal path and display it in a separate window. Close this window to initiate the Robot's navigation.
 
 ________________________________________________________
