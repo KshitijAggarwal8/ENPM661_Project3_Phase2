@@ -77,14 +77,23 @@ ________________________________________________________
 ________________________________________________________
 **Output Video:**
 The video has been recored for the following input values:
+
 Enter the clearance 0.2
+
 Enter RPM1:1
+
 Enter RPM2:2
+
 Enter start point x coordinate (in metres): 0.5
+
 Enter start point y coordinate (in metres): 1
+
 Enter start orientation in degrees: 0
+
 Enter goal point x coordinate (in metres): 5.75
+
 Enter goal point y coordinate (in metres): 1
+
 
 ________________________________________________________
 **Note:**
